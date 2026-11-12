@@ -1,6 +1,6 @@
 # The Fuel and the Engine
 
-**Notes from the Abstract** | Andrew R. Crocker | March 2026
+**Notes from the Abstracts** | Andrew R. Crocker | March 2026
 
 ## About
 
